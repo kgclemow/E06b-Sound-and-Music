@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/C220 Music Practice.ogg-08bc8ac1c8bad3eb02eb6503b9b52c7d.oggstr"
+
+[deps]
+
+source_file="res://assets/C220 Music Practice.ogg"
+dest_files=[ "res://.import/C220 Music Practice.ogg-08bc8ac1c8bad3eb02eb6503b9b52c7d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

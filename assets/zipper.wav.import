@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/zipper.wav-2f40c3ad41bfd2f290b07021b3ae2970.sample"
+
+[deps]
+
+source_file="res://assets/zipper.wav"
+dest_files=[ "res://.import/zipper.wav-2f40c3ad41bfd2f290b07021b3ae2970.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
